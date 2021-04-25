@@ -1,1 +1,43 @@
+.center-text {
+  text-align: center
+}
 
+.background-1 {
+  font-family: 'Times New Roman', Times, serif;
+  background-color: rgb(110, 21, 110);
+  color: white;
+  text-align: center;
+  height: 100px;
+  
+}
+
+.background-2 {
+  font-family: 'Times New Roman', Times, serif;
+  background-color: rgb(110, 21, 110);
+  color: white;
+  height: 100px;
+}
+
+.background-3 {
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+a{
+  color: blue;
+}
+
+hr {
+  height: 5px;
+  width: 300px;
+  background-color: black;
+
+}
+
+.list-text {
+  text-align: center;
+}
+
+.list-text > ul {
+  display: inline-block;
+}
