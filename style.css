@@ -19,15 +19,15 @@
 }
 
 a:link {
-  color: rgb(110, 21, 110);
+  color: blue;
 }
 
 a:visited {
-  color: red
+  color: purple
 }
 
 a:hover {
-  color: blue
+  color: red
 }
 
 hr {
