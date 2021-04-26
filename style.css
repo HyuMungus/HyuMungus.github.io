@@ -18,10 +18,14 @@
   text-align: center;
 }
 
-a{
+a:link {
   color: rgb(110, 21, 110);
 }
 
+a:visited {
+  color: purple
+}    
+    
 hr {
   height: 5px;
   width: 300px;
