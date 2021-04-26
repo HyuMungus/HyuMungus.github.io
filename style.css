@@ -1,5 +1,5 @@
 .center-text {
-  text-align: center        /* test method */
+  text-align: center;        /* test method */
 }
 
 .background-1 {
@@ -16,6 +16,7 @@
 .background-2 {
   font-family: 'Times New Roman', Times, serif;
   text-align: center;
+  font-size: 17px;
 }
 
 a:link {
