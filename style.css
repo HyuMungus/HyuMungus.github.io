@@ -23,11 +23,11 @@ a:link {
 }
 
 a:visited {
-  color: purple
+  color: purple;
 }
 
 a:hover {
-  color: red
+  color: red;
 }
 
 hr {
