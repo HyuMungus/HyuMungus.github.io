@@ -1,5 +1,5 @@
 .center-text {
-  text-align: center
+  text-align: center        /* test method */
 }
 
 .background-1 {
@@ -7,7 +7,7 @@
   background-color: rgb(110, 21, 110);
   color: white;
   text-align: center;
-  height: 100px;
+  height: 100px;                                    /* this sets all the rounded edges and coloring in the webpages header/footer. aligns text to the center and changes color of the text/background */
   border-radius: 25px;
   padding: 20px;
   margin: 10px;
@@ -32,11 +32,11 @@ hr {
 .list-text {
   text-align: center;
 }
-
+                                  /* This helps set the list into the center with the dots following */
 .list-text > ul {
-  display: inline-block;
+  display: inline-block;      
 }
 
 img{
-  border-radius: 25px;
+  border-radius: 25px;      /* rounds the image */
 }
