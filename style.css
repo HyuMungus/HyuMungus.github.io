@@ -24,8 +24,12 @@ a:link {
 
 a:visited {
   color: red
-}    
-    
+}
+
+a:hovered {
+  color: blue
+}
+
 hr {
   height: 5px;
   width: 300px;
